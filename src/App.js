@@ -66,7 +66,7 @@ class App extends Component {
                     <h3>My life’s rules: </h3>
                   </header>
                   <div className="image fit">
-                    <img src="images/pic01.jpg" alt="" />
+                    <img src="images/pic01" alt="" />
                   </div>
                   <p>
                     To be patient is my key for success; moreover, it is my key
@@ -82,7 +82,7 @@ class App extends Component {
                     <h3>Targets:</h3>
                   </header>
                   <div className="image fit">
-                    <img src="images/pic02.jpg" alt="" />
+                    <img src="images/pic02" alt="" />
                   </div>
                   <p>
                     I believe that I have a lot of skills and a lot of life
