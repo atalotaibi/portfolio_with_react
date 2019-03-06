@@ -35,13 +35,6 @@ class App extends Component {
               I love to read about different topics because I like to be a
               conscious person.
             </p>
-            <ul className="actions">
-              <li>
-                <a href="#" className="button alt">
-                  Learn More
-                </a>
-              </li>
-            </ul>
           </div>
         </section>
 
